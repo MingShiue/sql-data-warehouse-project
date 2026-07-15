@@ -17,7 +17,7 @@ USE DataWarehouse;
 GO
 
 --Create Schemas
-CREATE SCHEMA bornze;
+CREATE SCHEMA bronze;
 GO
 
 CREATE SCHEMA silver;
